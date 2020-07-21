@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NewUI_Demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MultThread_Run.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RingBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="InitFunction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Socket_CPP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Inputdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QtLoginDlg.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowOut.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ResultData.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MyLineEdit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QtCameraSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="textticker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DailyLog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UserLineEdit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <QtMoc Include="NewUI_Demo.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="MultThread_Run.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="InitFunction.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="QtCameraSet.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="Inputdialog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="QtLoginDlg.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="WindowOut.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="ResultData.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="MyLineEdit.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="textticker.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="DailyLog.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="QT_FrontCheckClass.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+    <QtMoc Include="UserMyLineEdit.h">
+      <Filter>Header Files</Filter>
+    </QtMoc>
+  </ItemGroup>
+  <ItemGroup>
+    <QtUic Include="NewUI_Demo.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="QtCameraSet.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="Inputdialog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="QtLoginDlg.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="WindowOut.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="ResultData.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+    <QtUic Include="DailyLog.ui">
+      <Filter>Form Files</Filter>
+    </QtUic>
+  </ItemGroup>
+  <ItemGroup>
+    <QtRcc Include="NewUI_Demo.qrc">
+      <Filter>Resource Files</Filter>
+    </QtRcc>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AllRelayHead.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="comm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Socket_CPP.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RingBuffer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="OpencvRelay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QT_FrontCheckClass_global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Everything.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="ico\dr.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico\dr_keyboard.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico\sec.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico\user.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico\capsule.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico\critical.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico\information.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico\question.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico\warning.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico\dr-pharm.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="dr128.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico\redGreen.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="ico\redLed.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="exeLogol.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
